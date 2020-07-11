@@ -9,6 +9,7 @@
 * File type: docm
 * Sha256 hash: 202d979d74f0478de0fbea103e2585a84fdab5646ad19437f5e4c4ba0cda7b90
 * url used was: hxxp://185.205.209.166/dkkp/qlyzbsuu.a12.exe & shortened via tinyurl
+* [Macros used](https://pastebin.com/raw/T9YNjDpD)
 
 ## Analysis
 
