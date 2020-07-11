@@ -1,14 +1,14 @@
-# AveMaria RAT Macro Dropper Doc
+# Remcos RAT Macro Dropper Doc
 
 ## Overview
 
-* [Sample & more info](https://bazaar.abuse.ch/sample/70ac4486f304eddfa8dc3067b3b2eaa036c1fc806527e39b4822b4eb7f985439/) 
+* [Sample & more info](https://bazaar.abuse.ch/sample/202d979d74f0478de0fbea103e2585a84fdab5646ad19437f5e4c4ba0cda7b90/) 
 * Password to the zip file is **infected**
-* First seen: May 22, 2020
+* First seen: May 27, 2020
 * url no longer up
 * File type: docm
-* Sha256 hash: 70ac4486f304eddfa8dc3067b3b2eaa036c1fc806527e39b4822b4eb7f985439
-* url used was: hxxp://185.205.209.166/dkkp/8bdrkkf5.wjx.exe & shortened via tinyurl
+* Sha256 hash: 202d979d74f0478de0fbea103e2585a84fdab5646ad19437f5e4c4ba0cda7b90
+* url used was: hxxp://185.205.209.166/dkkp/qlyzbsuu.a12.exe & shortened via tinyurl
 
 ## Analysis
 
@@ -38,7 +38,7 @@ The powershell also drops the file to disk & saves it in the Temp directory as *
 
 The url used is hxxps://tinyurl.com/ybz4nnyg. Tinyurl is a url shortener which will redirect to the main website. Attempting to navigate to this tinyurl yields no response, which likely means whatever site this malware was hosted as has since been taken down.
 
-The final payload that would've been grabbed if the url was still up would be the AveMaria RAT
+The final payload that would've been grabbed if the url was still up would be the Remcos RAT
 
 My claim of the URL no longer being up is backed by the powershell logs:
 
