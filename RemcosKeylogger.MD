@@ -11,6 +11,8 @@
 
 * filetype: exe
 
+* [Strings](https://pastebin.com/raw/vr15q8rZ)
+
 
 # Analysis
 
