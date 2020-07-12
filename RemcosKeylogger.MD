@@ -1,7 +1,7 @@
 # Remcos RAT Keylogger
 
 ## Overview
-* [[sample here](https://bazaar.abuse.ch/sample/6ad868658b3f50bfde225d52382d33a6027e8344592fb6fa296b8516d9d00f4c/) 
+* [sample here](https://bazaar.abuse.ch/sample/6ad868658b3f50bfde225d52382d33a6027e8344592fb6fa296b8516d9d00f4c/) 
 
 * Password to zip is **infected**
 
