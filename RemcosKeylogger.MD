@@ -39,3 +39,7 @@ One thing I found interesting was that the malware appears to interact with `HKC
 Here's an example of the activity that is logged:
 
 ![](/pic-set2/img6.png)
+
+If we search through the identified strings of the .exe, we can see that the capabilities of this keylogger are wider than I originally expected, it also appears to have the ability to steal browser credentials, record audio from the microphone, and turn on & off the web cam:
+
+![](/pic-set2/img7.png)
