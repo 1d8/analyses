@@ -58,3 +58,5 @@ After:
 Result after running:
 
 ![](/pics-set1/img7.png)
+
+*NOTE: The reason Shell is called on a variable + a function is because the command passed to Shell is base64 encoded twice & needs to be decoded twice before being ran. So the variable **asdas** contains the command after it's decoded once and then when Shell is called as Shell(sadsad(asdas, True)) is when the command is decoded the second time. Basically the function **sadsad()** is responsible for doing the base64 decoding. I hope this makes sense. Thanks for reading!* 
