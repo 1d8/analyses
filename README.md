@@ -7,6 +7,7 @@
 # Doc Analyses:
 
 * [Remcos Dropper](https://github.com/1d8/analyses/blob/master/RemcosDocDropper.MD)
+* [Crimson .Doc Dropper](https://github.com/1d8/analyses/blob/master/CrimsonMacro.md)
 
 # EXE Analysis
 
