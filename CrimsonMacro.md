@@ -80,7 +80,7 @@ The **Intel.exe** file reaches out to **51.89.208.53:350**, it also tries to rea
 
 Attempting to view the communication with Wireshark didn't yield much:
 
-![](/pic-set3/img13.png)
+![](/pic-set3/img14.png)
 
 # Links Used
 
